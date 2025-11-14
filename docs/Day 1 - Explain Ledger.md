@@ -23,8 +23,8 @@ A ledger is a record-keeping system that stores the history of events (usually t
 **Ordered:** Entries are arranged in a well-defined order (typically by time or block height).
 
 **Verifiable:** Each entry can be verified cryptographically or by consensus.
-
-In blockchain systems the ledger is implemented as a sequence of blocks (a chain) or another append-only data structure replicated across nodes.
+**In sorts**
+A ledger in blockchain is the canonical, append‑only record of all validated transactions and state changes. The ledger is maintained in a distributed manner across nodes: every full node stores (or can reconstruct) the same ledger and can prove the integrity of its contents using cryptographic hashes.
 
 ### **2. Ledger vs. Database**
 
