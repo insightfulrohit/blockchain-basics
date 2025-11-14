@@ -21,5 +21,3 @@ Today I organized core concepts learned from videos and notes. The goal was to c
 - **Consensus** — Mechanism to agree on the next block. Examples: *Proof of Work (PoW), Proof of Stake (PoS), Proof of Elapsed Time (PoET)*.  
 - **Protocols** — Rules that define network, block format, consensus, propagation.  
 - **Benefits & Limitations** — High-level pros (transparency, tamper-resistance) and cons (scalability, energy, governance).
-
-## Repo layout
