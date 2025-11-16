@@ -27,7 +27,8 @@ They create a **new candidate block** containing these transactions
 ⬇️  
 Consensus happens  
 - In **Proof of Work**, miners solve a puzzle  
-- In **Proof of Stake**, validators are selected to approve the block  
+- In **Proof of Stake**, validators are selected to approve the block
+
 ⬇️  
 The block that wins consensus is **broadcast** to the entire network  
 ⬇️  
