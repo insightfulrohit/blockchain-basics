@@ -9,7 +9,7 @@ Each block is linked to the previous one using cryptographic hashes, creating a 
 Because every block is connected and secured using cryptography, and because the blockchain is stored across many computers (nodes), the data becomes tamper-proof, transparent, and highly secure.
 
 
-### **Examples of Blockchain**
+## **Examples of Blockchain**
 
 ### **1. Bitcoin**
 
